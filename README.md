@@ -1,5 +1,3 @@
-https://media.licdn.com/dms/image/D4D16AQGT1LPc7vDeQw/profile-displaybackgroundimage-shrink_350_1400/0/1687572067561?e=1721260800&v=beta&t=qX3z6glooC_wNJ84zsY7qsxAMzY_bQtp2IZ2NUaowvY
-
 ### Hi there 👋, this  is 𝓗𝓡𝓘𝓣𝓐𝓜 𝓜𝓘𝓣𝓡𝓐
 #### 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒊𝒏 𝑽𝑳𝑺𝑰 𝑫𝑬𝑺𝑰𝑮𝑵 𝑭𝑳𝑶𝑾 𝑨𝑵𝑫 𝑴𝑰𝑪𝑹𝑶𝑬𝑳𝑬𝑪𝑻𝑹𝑶𝑵𝑰𝑪𝑺, 𝐌𝐀𝐂𝐇𝐈𝐍𝐄 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆
 ![𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒊𝒏 𝑽𝑳𝑺𝑰 𝑫𝑬𝑺𝑰𝑮𝑵 𝑭𝑳𝑶𝑾 𝑨𝑵𝑫 𝑴𝑰𝑪𝑹𝑶𝑬𝑳𝑬𝑪𝑻𝑹𝑶𝑵𝑰𝑪𝑺, 𝐌𝐀𝐂𝐇𝐈𝐍𝐄 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆]
