@@ -16,9 +16,7 @@ Skills: _**Verilog / Python / C / Matlab / Scilab / Spice / Analog VLSI design /
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HRITAM-MITRA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hritam-mitra//) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRITAM-MITRA)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HRITAM-MITRA)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HRITAM-MITRA&show_icons=true&count_private=true)    
-
-
-![HRITAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRITAM-MITRA&show_icons=true&theme=radical)
+![HRITAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRITAM-MITRA&show_icons=true&theme=radical&layout=pie&count_private=true)
